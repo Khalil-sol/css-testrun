@@ -1,0 +1,52 @@
+.header {color: blue;
+background-color: white;
+padding: 8px;
+font-weight: bolder;
+font-size: 35px;}
+.rob {font-size: 30px;
+font-weight: bold;
+padding-top: 2px;}
+.fg{background-color: #1f2937;
+font-family: Roboto ;
+color: white;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: stretch;
+margin: 0px;
+padding: 10px;
+gap: 30px;}
+.five {margin-bottom: 30px;
+font-size: 30px;
+font-weight: 100;}
+.box {display: flex;
+    flex-direction: column;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: stretch;
+    margin: 0px;
+    padding: 10px;
+    gap: 30px;
+    font-family: Roboto ;}
+.ice { background-color: #E5E7EB ;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: stretch;
+    margin: 0px;
+    padding: 10px;
+    gap: 30px;
+    font-family: Roboto ;}
+    .iibox {font-size: 36px;
+    font-weight: 900;
+color: #1f2937;}
+.ibox {color: #3882f6;
+font-size: 24px;}
+.ivbox {color: #1f2937;
+font-style: italic;
+font-size: 36px;}
+.iiibox {font-weight: bold;
+font-size: 30px;
+}
+body {display: contents;}
